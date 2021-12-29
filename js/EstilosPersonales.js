@@ -30,9 +30,7 @@ let footerText  =  `<p>
                   <b>TELÉFONO</b> <br />
                   983968463 - 952892465 <br /><br />
               
-                  <b> HORARIO DE ATENCIÓN </b> </br>
-09:00 A.M - 11:59:00 A.M </br></br>
-              
+                            
                   <b>E-MAIL</b><br/> 
                   mesadepartesvirtual@ceconp.com<br/>
                   arbitraje@ceconp.com<br/>
