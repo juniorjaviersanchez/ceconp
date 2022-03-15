@@ -1,3 +1,7 @@
+// Abrir el aviso
+$("#exampleModal").modal('show');
+  
+
 var animation = bodymovin.loadAnimation({
   container: document.getElementById('bm'),
   renderer: 'svg',
