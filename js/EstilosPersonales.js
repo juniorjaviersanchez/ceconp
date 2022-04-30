@@ -1,5 +1,5 @@
 // Abrir el aviso
-$("#exampleModal").modal('show');
+// $("#exampleModal").modal('show');
   
 
 var animation = bodymovin.loadAnimation({
